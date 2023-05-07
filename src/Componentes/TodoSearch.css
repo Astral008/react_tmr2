@@ -1,0 +1,21 @@
+
+
+.TodoSearch{
+    font-size: 24px;
+    text-align: center;
+    background-color: #F9FBFC;
+    width: calc(100%-62px);
+    height: 64px;
+    box-shadow: 0px 5px 50px #cdcdcd;
+    border-radius: 2px;
+    margin: 0px 24px;
+
+}
+.TodoSearch{
+    color:#a5a5a5; /* barra de escritura */
+    font-family: 'Montserrat';
+    font-weight: 400;  /* grsor de la letra */
+}
+.TodoSearch{
+    outline-color: #61dafa;
+}
